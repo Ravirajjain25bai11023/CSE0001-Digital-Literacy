@@ -41,7 +41,7 @@ Developed a case study on **UPI fraud** and created a **prevention checklist**. 
 
 - **GitHub Profile:** https://github.com/Ravirajjain25bai11023 
 - **LinkedIn Profile:** https://linkedin.com/in/your-profile  
-- **Kaggle Profile:** https://kaggle.com/your-profile  
+- **Kaggle Profile:** https://www.kaggle.com/ravirajjain51  
 - **Google Form (Digital Literacy Awareness Quiz):** https://forms.gle/QsNK2Zpqpzv6TJsBA
 ---
 
