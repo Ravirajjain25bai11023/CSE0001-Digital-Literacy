@@ -14,7 +14,7 @@ The project is divided into **five modules**, covering key areas such as **digit
 - **Name:** Raviraj Jain  
 - **Registration Number:** 25BAI11023  
 - **Branch:** B.Tech – CSE (Artificial Intelligence and Machine Learning)
-- **Year:** First Year  
+- **Year:** 2025-2029 
 
 ---
 
